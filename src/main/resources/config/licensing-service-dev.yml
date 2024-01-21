@@ -1,0 +1,10 @@
+example:
+  property:
+    I AM THE DEV
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres:5432/postgres
+    username: postgres
+    password: 123
+    datasource:
+      driver-class-name: org.postgresql.Driver
